@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/kullaniciGiris/kullaniciGiris.iml" filepath="$PROJECT_DIR$/kullaniciGiris/kullaniciGiris.iml" />
       <module fileurl="file://$PROJECT_DIR$/manavKasa/manavKasa.iml" filepath="$PROJECT_DIR$/manavKasa/manavKasa.iml" />
       <module fileurl="file://$PROJECT_DIR$/ortalamaHesaplama/ortalamaHesaplama.iml" filepath="$PROJECT_DIR$/ortalamaHesaplama/ortalamaHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sinifGecme/sinifGecme.iml" filepath="$PROJECT_DIR$/sinifGecme/sinifGecme.iml" />
       <module fileurl="file://$PROJECT_DIR$/taksimetre/taksimetre.iml" filepath="$PROJECT_DIR$/taksimetre/taksimetre.iml" />
     </modules>
   </component>
