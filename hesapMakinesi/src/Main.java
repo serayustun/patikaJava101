@@ -26,7 +26,7 @@ public class Main {
                 System.out.println("Sonuç: " +(num1*num2));
                 break;
             case 4:
-                System.out.println("Sonuç: " +((num2!=0) ? (num1/num2): "Sonsuz" ));
+                System.out.println("Sonuç: " +((num2!=0) ? (num1/num2): "sonsuz" ));
                 break;
             default:
                 System.out.println("Yanlış seçim yaptınız");
