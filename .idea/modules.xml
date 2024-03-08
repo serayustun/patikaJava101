@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/javaPatika.iml" filepath="$PROJECT_DIR$/javaPatika.iml" />
       <module fileurl="file://$PROJECT_DIR$/kdvTutari/kdvTutari.iml" filepath="$PROJECT_DIR$/kdvTutari/kdvTutari.iml" />
       <module fileurl="file://$PROJECT_DIR$/kitleEndeksi/kitleEndeksi.iml" filepath="$PROJECT_DIR$/kitleEndeksi/kitleEndeksi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kucuktenBuyuge/kucuktenBuyuge.iml" filepath="$PROJECT_DIR$/kucuktenBuyuge/kucuktenBuyuge.iml" />
       <module fileurl="file://$PROJECT_DIR$/kullaniciGiris/kullaniciGiris.iml" filepath="$PROJECT_DIR$/kullaniciGiris/kullaniciGiris.iml" />
       <module fileurl="file://$PROJECT_DIR$/manavKasa/manavKasa.iml" filepath="$PROJECT_DIR$/manavKasa/manavKasa.iml" />
       <module fileurl="file://$PROJECT_DIR$/ortalamaHesaplama/ortalamaHesaplama.iml" filepath="$PROJECT_DIR$/ortalamaHesaplama/ortalamaHesaplama.iml" />
