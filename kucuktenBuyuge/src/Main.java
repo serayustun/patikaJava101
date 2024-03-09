@@ -13,6 +13,7 @@ public class Main {
         System.out.println("3.Sayıyı Giriniz :");
         c = input.nextInt();
 
+
         if (a<b && a<c){
             if (b<c){
                 System.out.println(a +"<"+ b +"<"+ c);
@@ -32,7 +33,7 @@ public class Main {
             }
         }
         else if(c<a && c<b){
-            if (a<c){
+            if (a<b){
                 System.out.println(c +"<"+ a +"<"+ b);
             }
             else{
